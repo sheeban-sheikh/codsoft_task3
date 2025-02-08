@@ -21,7 +21,7 @@ Clone the repository (if applicable) or download the script.
 Ensure Python is installed (Python 3 recommended).
 
 Run the script using the following command:
-python password_generator.py
+python task3.py
 Enter the desired password length, and a strong password will be generated for you!
 
 📌 Technologies Used
